@@ -56,9 +56,9 @@ git clone https://github.com/dyaus4/tip-calculator.git
 
 ## 📸 Screenshot
 
-```md
+
 ![Screenshot](screenshot.png)
-```
+
 
 ---
 
